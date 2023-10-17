@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:nomads/components/user/screens/sign_in_screen.dart';
+import 'package:{{name}}/components/user/screens/sign_in_screen.dart';
+import 'package:{{name}}/components/user/screens/sign_up_screen.dart';
 
-import '../../components/user/screens/sign_up_screen.dart';
 
 /// Represents the app routes and their paths.
 enum AppRoutes {

@@ -1,10 +1,10 @@
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:nomads/components/user/data/data_sources/auth_local_data_source.dart';
-import 'package:nomads/components/user/data/data_sources/auth_remote_data_source.dart';
-import 'package:nomads/components/user/data/data_sources/auth_remote_data_source_firebase.dart';
-import 'package:nomads/components/user/data/repository/auth_repository.dart';
-import 'package:nomads/components/user/data/repository/auth_repository_impl.dart';
+import 'package:{{name}}/components/user/data/data_sources/auth_local_data_source.dart';
+import 'package:{{name}}/components/user/data/data_sources/auth_remote_data_source.dart';
+import 'package:{{name}}/components/user/data/data_sources/auth_remote_data_source_firebase.dart';
+import 'package:{{name}}/components/user/data/repository/auth_repository.dart';
+import 'package:{{name}}/components/user/data/repository/auth_repository_impl.dart';
 
 import 'preferences_service.dart';
 
